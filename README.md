@@ -10,6 +10,9 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
+**LIVE SITE:** https://christiangbhub.github.io/four-card-feature-section-master/
+Github: https://github.com/Christiangbhub/four-card-feature-section-master
+
 ## The challenge
 
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
